@@ -1,4 +1,4 @@
-# Unit Testing in Node.js Project Modified by Harry from A Security Guru
+# Unit Testing in Node.js Project Modified by DevOps4Me Global
 [![Build code, run unit test, run SAST, SCA, DAST security scans for NodeJs App](https://github.com/devops4mecode/github-action-devsecops-nodejs/actions/workflows/complete-workflow.yml/badge.svg?branch=master)](https://github.com/devops4mecode/github-action-devsecops-nodejs/actions/workflows/complete-workflow.yml)
 
 ## Intro
